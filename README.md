@@ -1,6 +1,6 @@
 # python-sample-app
 
-A simple flask web app
+A simple s2i python based application.
 
 just run : 
 
